@@ -10,7 +10,7 @@
 
 # GIT-HUB STATS
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Raj1513566433&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mriadhussainraj&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="48%" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=Raj1513566433&theme=dark&hide_border=true" width="48%" />
 </p>
 
@@ -42,8 +42,8 @@
 ### ACTUAL LANGUAGE PERCENTAGES
 
 <p align="left">
-  <img src="https://quickchart.io/chart?c=%7Btype%3A%27horizontalBar%27%2Cdata%3A%7Blabels%3A%5B%27Dart%27%2C%27Jupyter+Notebook%27%2C%27C%2B%2B%27%2C%27CMake%27%2C%27HTML%27%2C%27JavaScript%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Usage+%25%27%2Cdata%3A%5B48.64%2C32.36%2C7.00%2C5.60%2C4.09%2C2.31%5D%2CbackgroundColor%3A%5B%27%2300BFA5%27%2C%27%23F4511E%27%2C%27%23E91E63%27%2C%27%23F44336%27%2C%27%232196F3%27%2C%27%23FFEB3B%27%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7BbackgroundColor%3A%27%23141321%27%7D%2Cscales%3A%7BxAxes%3A%5B%7Bticks%3A%7BfontColor%3A%27white%27%7D%2CgridLines%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.1)%27%7D%7D%5D%2CyAxes%3A%5B%7Bticks%3A%7BfontColor%3A%27white%27%7D%2CgridLines%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.1)%27%7D%7D%5D%7D%2Clegend%3A%7Blabels%3A%7BfontColor%3A%27white%27%7D%7D%7D%7D&w=600&h=300&bkg=%23141321" height="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj1513566433&theme=dark&hide_border=true&layout=donut-vertical" height="300" />
+  <img src="https://quickchart.io/chart?c=%7Btype%3A%27horizontalBar%27%2Cdata%3A%7Blabels%3A%5B%27Dart%27%2C%27Jupyter+Notebook%27%2C%27C%2B%2B%27%2C%27CMake%27%2C%27HTML%27%2C%27JavaScript%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Usage+%25%27%2Cdata%3A%5B48.64%2C32.36%2C7.00%2C5.60%2C4.09%2C2.31%5D%2CbackgroundColor%3A%5B%27%2300BFA5%27%2C%27%23F4511E%27%2C%27%23E91E63%27%2C%27%23F44336%27%2C%27%232196F3%27%2C%27%23FFEB3B%27%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7BbackgroundColor%3A%27%23141321%27%7D%2Cscales%3A%7BxAxes%3A%5B%7Bticks%3A%7BfontColor%3A%27white%27%7D%2CgridLines%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.1)%27%7D%7D%5D%2CyAxes%3A%5B%7Bticks%3A%7BfontColor%3A%27white%27%7D%2CgridLines%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.1)%27%7D%7D%5D%7D%2Clegend%3A%7Blabels%3A%7BfontColor%3A%27white%27%7D%7D%7D%7D&w=600&h=300&bkg=%23141321" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj1513566433&theme=dark&hide_border=true&layout=donut-vertical" height="250" />
 </p>
 
 ---
