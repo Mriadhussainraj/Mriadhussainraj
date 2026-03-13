@@ -9,8 +9,10 @@
 ---
 
 # GIT-HUB STATS
-![](https://github-readme-stats.vercel.app/api?username=Raj1513566433&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Raj1513566433&theme=dark&hide_border=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Raj1513566433&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="48%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Raj1513566433&theme=dark&hide_border=true" width="48%" />
+</p>
 
 
 ---
