@@ -26,7 +26,12 @@
 
 
 ## SOCIAL MEDIA
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/m_raj002_57701) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.linkedin.com/in/m-rayad-hussain-raj-230361253) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mriadhussainraj?utm_source=qr&igsh=YzM1MDlrc3hyZHo5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/m-rayad-hussain-raj-230361253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mriadhussainraj@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-rayad-hussain-raj-230361253/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/m.riad.hussain.raj.2025)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mriadhussainraj)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/m_raj002_57701)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mriadhussainraj@gmail.com)
 
 ---
 
