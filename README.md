@@ -1,3 +1,30 @@
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi
+</h1>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Hello+I+am+Raj;Flutter+Developer;Mobile+App+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
+
+- I’m currently working as a **Flutter Developer at SCALEUP IT (Betopia Group) **, building modern and scalable mobile applications.
+
+- I specialize in **Flutter Mobile App Development**, focusing on clean architecture, responsive UI, and smooth user experience.
+
+- I’m looking to collaborate on **Flutter, Mobile Applications, and Open Source Projects** that create real-world impact.
+
+- I’m looking for help with **Advanced Mobile App Security, Scalable Backend Integration, and System Architecture**.
+
+- I’m currently learning **Advanced Flutter Development, Mobile App Performance Optimization, and Secure App Development**.
+
+- Ask me about **Flutter, Mobile UI/UX Design, Git, Firebase, and App Development Best Practices**.
+
+- I enjoy turning ideas into **functional mobile apps that solve real problems and deliver great user experiences**.
+
+- My goal is to grow as a **professional mobile application developer and contribute to impactful tech projects worldwide**.
+
+
+
+
 ## SOCIAL MEDIA
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/m_raj002_57701) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.linkedin.com/in/m-rayad-hussain-raj-230361253) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mriadhussainraj?utm_source=qr&igsh=YzM1MDlrc3hyZHo5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/m-rayad-hussain-raj-230361253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mriadhussainraj@gmail.com)
 
@@ -28,7 +55,7 @@
 ---
 
 ### MY TOTAL ACTIVITY
-![](https://github-readme-activity-graph.vercel.app/graph?username=Raj1513566433&theme=react-dark&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Mriadhussainraj&theme=react-dark&hide_border=true)
 
 ---
 
