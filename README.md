@@ -48,7 +48,7 @@
 # GIT-HUB STATS
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mriadhussainraj&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="48%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Raj1513566433&theme=dark&hide_border=true" width="48%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Mriadhussainraj&theme=dark&hide_border=true" width="48%" />
 </p>
 
 
