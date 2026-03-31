@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi
 </h1>
 
-
+# NOTHING TO DO ANY
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Hello+I+am+Raj;Flutter+Developer;Mobile+App+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
@@ -51,7 +51,7 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=Mriadhussainraj&theme=dark&hide_border=true" width="48%" />
 </p>
 
-# NOTHING TO DO ANY
+
 ---
 
 ## GIT-HUB TROPHOCS
